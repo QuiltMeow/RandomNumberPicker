@@ -1,0 +1,14 @@
+G:\Learn Project\C#\Random\Random\bin\Release\SkinH_CS.dll
+G:\Learn Project\C#\Random\Random\bin\Release\SkinH_Net.dll
+G:\Learn Project\C#\Random\Random\bin\Release\Skin.she
+G:\Learn Project\C#\Random\Random\bin\Release\NumberRandom.exe.config
+G:\Learn Project\C#\Random\Random\bin\Release\NumberRandom.exe
+G:\Learn Project\C#\Random\Random\bin\Release\NumberRandom.pdb
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.csprojAssemblyReference.cache
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.MainForm.resources
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.Properties.Resources.resources
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.csproj.GenerateResource.cache
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.csproj.CoreCompileInputs.cache
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.csproj.CopyComplete
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.exe
+G:\Learn Project\C#\Random\Random\obj\Release\NumberRandom.pdb
